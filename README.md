@@ -164,7 +164,6 @@ engineers from Google, Amazon, and more!
 - [tmux Cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 - [How to Scan for IP Addresses on a Network](https://www.pcwdld.com/how-to-scan-network-for-ip-addresses)
 - [All About Environment Variables](https://askubuntu.com/questions/58814/how-do-i-add-environment-variables)
-- [Brilliant Bash](https://github.com/banjoman/brilliant-bash) - A handful of bash aliases to strengthen the bond between you and your machine.
 - [wttr.in](https://github.com/chubin/wttr.in) - ⛅ Check the weather from your terminal.
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash.
 - [powerline-shell](https://github.com/b-ryan/powerline-shell#bash) - A beautiful and useful prompt for your shell.
