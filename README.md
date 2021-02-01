@@ -1,4 +1,5 @@
 # William Lamason's Links <!-- omit in toc -->
+> 📚 A library of web links I have found useful, interesting, or have recommended to other people.
 
 - [Meta Lists](#meta-lists)
 - [Career](#career)
@@ -21,8 +22,10 @@
   - [sql](#sql)
   - [java](#java)
 - [Tutorials](#tutorials)
+- [Project Starters](#project-starters)
 - [Math](#math)
 - [Programs](#programs)
+- [Chrome Extensions](#chrome-extensions)
 - [Miscellaneous](#miscellaneous)
 
 # Meta Lists
@@ -41,7 +44,7 @@ Lists like this one on various subjects.
 - [Flashcards for Developers](https://www.flashcardsfordevelopers.com/) - A curated list of flashcards to boost your professional skills.
 - [Gitlab Remote Manifesto](https://about.gitlab.com/company/culture/all-remote/)
 - [US & Canada Software Companies List](https://docs.google.com/spreadsheets/d/1z3_OfZdPXiOOgHi7uY5nvLuQX_qbpaxmYNXHHiuuV0I/edit#gid=0)
-- [Easy Application List](http://j-delaney.github.io/easy-application/) - This is a list of companies that are easy to apply to.m
+- [Easy Application List](http://j-delaney.github.io/easy-application/) - This is a list of companies that are easy to apply to.
 - [levels.fyi](https://www.levels.fyi/) - Salary information on tech companies.
 - [Tech Resume Tips](https://www.reddit.com/r/cscareerquestions/comments/bgxgu6/im_22_i_havent_applied_to_more_than_20_companies/)
 - [How Top Tech Compensation Works](https://www.reddit.com/r/cscareerquestions/comments/cct7v5/how_top_tech_compensation_works/)
@@ -52,6 +55,8 @@ Lists like this one on various subjects.
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) - Google's recommendation on the best way to do code reviews.
 - [Data Structures & Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 - [Slide Team](https://www.slideteam.net/) - Powerpoint themes, slides, and designs to kickstart your presentations.
+- [They Whiteboarded Me](http://they.whiteboarded.me/companies-that-whiteboard.html) - companies that are known to use whiteboarding, live-coding and/or automated code challenges as part of their candidate evaluation process.
+- [Open Guide to Equite Compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes.
 
 # Interviews
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -73,6 +78,7 @@ Lists like this one on various subjects.
 engineers from Google, Amazon, and more!
 - [500 Data Structures and Algorithms Interview Questions and their Solutions](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 - [Algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview.
+- [leetcode-cli](https://github.com/skygragon/leetcode-cli) - A productive cli tool to enjoy leetcode.  
 
 ## System Design
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
@@ -85,6 +91,7 @@ engineers from Google, Amazon, and more!
 - [All Things Caching](https://medium.com/datadriveninvestor/all-things-caching-use-cases-benefits-strategies-choosing-a-caching-technology-exploring-fa6c1f2e93aa)
 - [Consistency between Redis Cache and SQL Database](https://yunpengn.github.io/blog/2019/05/04/consistent-redis-sql/)
 - [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
+- [System Design Cheat Sheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
 # Cool Projects/Websites
 - [Code Reddit](http://codereddit.com/index.html) - A website that makes reading reddit look like you are reading code.
@@ -115,6 +122,11 @@ engineers from Google, Amazon, and more!
 - [WindowSwap](https://window-swap.com/) - Open a new window somewhere in the world.
 - [TinyPilot](https://mtlynch.io/tinypilot/) - Build a Kernel-based Virtual Machine over IP for under $100.
 - [Stop Phishing Campaigns with Bash](https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html)
+- [snes.party](https://snes.party/) - Play snes games with friends online. Powered by WebRTC.
+- [psxparty](https://psxparty.kosmi.io/) - Play Playstation 1 games with friends online. Powered by WebRTC.
+- [Dashboard Tracking US Senator Stock Trading](https://www.quiverquant.com/sources/senatetrading)
+- [bongo.cat](https://bongo.cat/) - Play bongos with an adorable cat animation.
+- [<SpeedTyper \/>](https://www.speedtyper.dev/) - A type racing application for programmers.
 
 # Wisdom
 - [Investing Returns](https://github.com/zonination/investing) - Data visualization demonstrating buy and hold strategy.
@@ -123,6 +135,7 @@ engineers from Google, Amazon, and more!
 - [The Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - Various templates & tips on writing high-quality documentation that people want to read.
 - [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
 - [How I Became a More Productive by Becoming a Worse Programmer](https://news.ycombinator.com/item?id=22680479)
+- [Johnny Decimal](https://johnnydecimal.com/) - A systematic method of organizing project files.
 
 # Tools
 - [Grep Dot App](https://grep.app/) - Find code snippets on github through regular expression searches over all public repositories. Great for finding example code!
@@ -145,6 +158,9 @@ engineers from Google, Amazon, and more!
 - [MinIO](https://docs.min.io/) - MinIO is a High Performance Object Storage released under Apache License v2.0. It is API compatible with Amazon S3 cloud storage service.
 - [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 - [mailtolink.me](https://mailtolink.me/) - A simple markup generator for mailto links that takes care of the formatting for you. Just fill out the email and copy your code.
+- [DiceBear Avatars](https://avatars.dicebear.com/) - Generate avatars. Also available as a free API!
+- [BrandColors](https://brandcolors.net/) - The biggest collection of official brand color codes around.
+- [Boltstream](https://github.com/benwilber/boltstream) - Live video streaming website and backend.
 
 # Git
 - [git Cheat Sheet](https://the-awesome-git-cheat-sheet.com/)
@@ -152,6 +168,10 @@ engineers from Google, Amazon, and more!
 - [git pretty](http://justinhileman.info/article/git-pretty/) - Flow chart on how to clean up git commits.
 - [git pr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow.
 - [Advanced git Tutorials](https://www.atlassian.com/git/tutorials/advanced-overviewl)
+- [Oh Sh!t, Git!?!](https://ohshitgit.com/) - Fix git mistakes.
+- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Learn Git Branching](https://learngitbranching.js.org/) - Interactive tutorial to learn git branching.
+- [Clone All Repositories of a Github User](https://gist.github.com/milanboers/f34cdfc3e1ad9ba02ee8e44dae8e093f)
 
 # Linux 
 - [Linux Command](http://www.linuxcommand.org/index.php) - Walkthroughs on learning the linux command line and how to write shell scripts.
@@ -190,6 +210,7 @@ engineers from Google, Amazon, and more!
 - [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users.
 - [emailwiz](https://github.com/lukesmithxyz/emailwiz) - Email server setup script.
 - [The Ultimate Bad Ass .bashrc File](https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c)
+- [htop Explained](https://peteris.rocks/blog/htop/) - Comprehensive guide to htop.
 
 # Databases
 - [PostgREST](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
@@ -198,6 +219,10 @@ engineers from Google, Amazon, and more!
 - [Database Answers](http://www.databaseanswers.org/data_models/index.htm) - Industry-specific Enterprise Data Models in 50 categories.
 - [WWW SQL Designer](https://github.com/ondras/wwwsqldesigner) - Online SQL designer that allows users to create database designs, which can be saved/loaded and exported to SQL scripts.
 - [Try Redis](http://try.redis.io/) - Interactive demonstration of the Redis database.
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
+- [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html) - Opinion: ORMs are more detriment than benefit.
+- [dbt](https://docs.getdbt.com/docs/introduction) - dbt (data build tool) enables analytics engineers to transform data in their warehouses by simply writing select statements.
+- [Materialize](https://materialize.com/) - Incrementally-updated materialized views - in ANSI Standard SQL and in real time.
 
 # Programming Languages
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
@@ -234,7 +259,9 @@ engineers from Google, Amazon, and more!
 - [Juxtapose JS](https://juxtapose.knightlab.com/) - Easy-to-make frame comparisons between photos.
 - [Color Thief](https://lokeshdhakar.com/projects/color-thief/) - Grab the color palette from an image using just Javascript. Works in the browser and in Node.
 - [ARWES](https://arwes.dev/) - Futuristic sci-fi and cyberpunk graphical user interface framework for web apps.
-
+- [Stream Handbook](https://github.com/substack/stream-handbook) - How to write node programs with streams.
+- [IconPark](https://github.com/bytedance/IconPark) - Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons.
+- [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript Optical Character Recognition for more than 100 languages.
 
 ## html
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate/tree/6.1.0) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -310,12 +337,14 @@ engineers from Google, Amazon, and more!
 - [SQL Tutorial for Data Analysis](https://mode.com/sql-tutorial/introduction-to-sql/) - Course overviewing standard SQL. Great for refreshing knowledge!
 - [Select Star SQL](https://selectstarsql.com/) - Interactive book which aims to be the best place on the internet for learning SQL.
 - [Use The Index, Luke!](https://use-the-index-luke.com/) - A site explaining SQL indexing to developers.
+- [Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)
 
 ## java
 - [Solid Java](https://filippobuletto.github.io/solid-java/#)
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
 - [Spring Initializr](https://start.spring.io/) - The fastest way to bootstrap a new spring project.
 - [Java 8 Concurrency Tutorial: Threads and Executors](https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
+- [How To Do In Java](https://howtodoinjava.com/) - Collection of Java based tutorials.
 
 # Tutorials
 - [Interactive VIM Tutorial](https://www.openvim.com/) - An interactive turoial on how to use VIM. [Hacker News Commentary](https://news.ycombinator.com/item?id=15400037)
@@ -326,6 +355,12 @@ engineers from Google, Amazon, and more!
 - [Implementing White Labeling](https://techblog.bozho.net/implementing-white-labelling/) - Make a website fully configurable.
 - [Basic Docker Commands for Begginers](https://codeopolis.com/posts/25-basic-docker-commands-for-beginners)
 - [What is a Webhook?](https://simonfredsted.com/1583)
+- [From Zero to main()](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch) - How to write a bootloader from scratch.
+- [Everything you ever wanted to know about building a secure password reset feature](https://www.troyhunt.com/everything-you-ever-wanted-to-know/)
+
+# Project Starters
+- [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications.
+- [JHipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 
 # Math
 - [Paul's Free Online Math Notes](https://tutorial.math.lamar.edu/) - Free online math notes and tutorials.
@@ -348,7 +383,16 @@ engineers from Google, Amazon, and more!
 - [ScreenToGif](https://www.screentogif.com/) - Screen, webcam and sketchboard recorder with an integrated editor.
 - [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 - [httpie](https://github.com/httpie/httpie) - Human-friendly CLI HTTP client for the API era.
-- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
+
+# Chrome Extensions
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Ad Blocker. Easy on CPU and memory.
+- [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies.
+- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
+- [Reload All Tabs](https://chrome.google.com/webstore/detail/reload-all-tabs/midkcinmplflbiflboepnahkboeonkam) - Reload All tabs using keyboard shortcut (alt + shift + r), context menu, browser action button, or startup.
+- [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) - Manage Browser Tabs and Bookmarks with Ease.
+- [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) - Adds a toggleable sidebar with all your bookmarks at the edge of your browser window.
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - The world's most popular userscript manager.
+- [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm) - Improve your skills on your own, effectively and enjoyably, by watching films and series in the language you study.
 
 # Miscellaneous
 
