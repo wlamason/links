@@ -284,6 +284,7 @@ engineers from Google, Amazon, and more!
 - [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Aligning Items in a Flex Container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container)
 - [BEM](http://getbem.com/introduction/) - CSS methodology; short for block, element, modifier.
+- [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework.
 
 ## python
 - [python Code Examples](https://www.programcreek.com/python/)
