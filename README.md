@@ -127,6 +127,7 @@ engineers from Google, Amazon, and more!
 - [Dashboard Tracking US Senator Stock Trading](https://www.quiverquant.com/sources/senatetrading)
 - [bongo.cat](https://bongo.cat/) - Play bongos with an adorable cat animation.
 - [<SpeedTyper \/>](https://www.speedtyper.dev/) - A type racing application for programmers.
+- [Boltstream](https://github.com/benwilber/boltstream) - Live video streaming website and backend.
 
 # Wisdom
 - [Investing Returns](https://github.com/zonination/investing) - Data visualization demonstrating buy and hold strategy.
@@ -160,7 +161,7 @@ engineers from Google, Amazon, and more!
 - [mailtolink.me](https://mailtolink.me/) - A simple markup generator for mailto links that takes care of the formatting for you. Just fill out the email and copy your code.
 - [DiceBear Avatars](https://avatars.dicebear.com/) - Generate avatars. Also available as a free API!
 - [BrandColors](https://brandcolors.net/) - The biggest collection of official brand color codes around.
-- [Boltstream](https://github.com/benwilber/boltstream) - Live video streaming website and backend.
+- [Tune My Music](https://www.tunemymusic.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube and many more.
 
 # Git
 - [git Cheat Sheet](https://the-awesome-git-cheat-sheet.com/)
