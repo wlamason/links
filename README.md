@@ -37,6 +37,8 @@ Lists like this one on various subjects.
 - [Awesome Open Source](https://awesomeopensource.com/) - Lists of open source projects organized into categories.
 - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) - A curated checklist of 100+ tips for protecting digital security and privacy in 2020.
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [Design Resources](https://github.com/MohamedYoussouf/Design-Resources) - A curated list of design resources from design templates, stock photos, icons, colors, and much more.
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 # Career
 - [Growing One's Consulting Business](https://training.kalzumeus.com/newsletters/archive/consulting_1)
@@ -57,6 +59,16 @@ Lists like this one on various subjects.
 - [Slide Team](https://www.slideteam.net/) - Powerpoint themes, slides, and designs to kickstart your presentations.
 - [They Whiteboarded Me](http://they.whiteboarded.me/companies-that-whiteboard.html) - companies that are known to use whiteboarding, live-coding and/or automated code challenges as part of their candidate evaluation process.
 - [Open Guide to Equite Compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes.
+- [12 Startup KPIs](https://techcrunch.com/2017/02/04/12-kpis-you-must-know-before-pitching-your-startup/)
+- [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
+- [Code Review](https://mtlynch.io/code-review-love/)
+- [Small PRs](https://google.github.io/eng-practices/review/developer/small-cls.html)
+- [Google's Code Review Guide](https://google.github.io/eng-practices/review/)
+- [StaffEng](https://staffeng.com/) - Continue down the path of technical excellence to become a Staff Engineer.
+- [Dropbox Engineer Career Framework](https://dropbox.github.io/dbx-career-framework/overview.html)
+- [Trimodal nature of Software Engineering Salaries](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
+- [Calibration](https://hr.ucdavis.edu/performance-appraisals/supervisor-resources/calibration) - Performance calibration meetings help to ensure that the standards used to rate performance are balanced.
+- [progression.fyi](https://www.progression.fyi/) - Open source frameworks and career pathways to help you or your team with personal growth.
 
 # Interviews
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -67,10 +79,12 @@ Lists like this one on various subjects.
 - [Questions to Interviewers](https://news.ycombinator.com/item?id=20917890)
 - [Reverse Interview](https://github.com/viraptor/reverse-interview) - List of questions which may be interesting to a tech job applicant.
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - A list of companies (or teams) that don't do "whiteboard" interviews.
+- [repher.me](https://repher.me/) - Get refferals to top tech companies.
 
 ## Algorithms
 - [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
-- [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) - Curated list of top 75 LeetCode questions to save your time.
+- [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) - Curated list of top 75 LeetCode questions to save your time. [Organized by topic.](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+- [Neetcode](https://neetcode.io/) - Curated 150 leetcode problems with video solutions + code in Python and Java.
 - [Interviews Repository](https://github.com/kdn251/interviews) - "Everything you need to know to get the job."
 - [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
@@ -78,7 +92,8 @@ Lists like this one on various subjects.
 engineers from Google, Amazon, and more!
 - [500 Data Structures and Algorithms Interview Questions and their Solutions](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 - [Algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview.
-- [leetcode-cli](https://github.com/skygragon/leetcode-cli) - A productive cli tool to enjoy leetcode.  
+- [leetcode-cli](https://github.com/skygragon/leetcode-cli) - A productive cli tool to enjoy leetcode.
+- [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) - Curated list of leetcode problems organized topically by pattern.
 
 ## System Design
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.
@@ -92,6 +107,14 @@ engineers from Google, Amazon, and more!
 - [Consistency between Redis Cache and SQL Database](https://yunpengn.github.io/blog/2019/05/04/consistent-redis-sql/)
 - [Systems Design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - [System Design Cheat Sheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+- [The Twelve-Factor App](https://12factor.net/)
+- [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+- [How They Test](https://abhivaikar.github.io/howtheytest/#/) - A curated collection of publicly available resources on how software companies around the world test their software systems and build their quality culture.
+- [Game Loop](https://gameprogrammingpatterns.com/game-loop.html)
+- [Awesome System Design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
+- [Logging Best Practices](https://tuhrig.de/my-logging-best-practices/)
+- [Big Ball of Mud](http://laputan.org/mud/)
+- [Refactoring Guru](https://refactoring.guru/) - Discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
 
 # Cool Projects/Websites
 - [Code Reddit](http://codereddit.com/index.html) - A website that makes reading reddit look like you are reading code.
@@ -99,7 +122,7 @@ engineers from Google, Amazon, and more!
 - [Trading View](https://www.tradingview.com/) - A website that allows you to view market data and script with the Pine programming language.
 - [Ad Nauseum](https://adnauseam.io/) - A browser extension to click all advertisements you come across. This serves to obfuscate your browsing data and foil tareted advertising/surveilance systems.
 - [Belly IO](https://belly.io/programming) - A website to find programming streamers on twitch.
-- [A Web Server in 500 Lines of Code](http://aosabook.org/en/500L/a-simple-web-server.html) - How to make a web server fropm scratch in 500 lines of python with an associated article.
+- [A Web Server in 500 Lines of Code](http://aosabook.org/en/500L/a-simple-web-server.html) - How to make a web server from scratch in 500 lines of python with an associated article.
 - [500 Lines or Less](http://aosabook.org/en/) - How to make various programs in 500 lines of code or less.
 - [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - An interactive site demonstrating how you can easily create a great style sheet in only 4 minutes!
 - [Code Mirror](https://codemirror.net/) - CodeMirror is a versatile text editor implemented in JavaScript for the browser.
@@ -128,6 +151,9 @@ engineers from Google, Amazon, and more!
 - [bongo.cat](https://bongo.cat/) - Play bongos with an adorable cat animation.
 - [<SpeedTyper \/>](https://www.speedtyper.dev/) - A type racing application for programmers.
 - [Boltstream](https://github.com/benwilber/boltstream) - Live video streaming website and backend.
+- [Kord](https://www.kord.app/) - Play music from spotify, soundcloud, and youtube with a single user interface. [Open source.](https://github.com/bundit/kord-app)
+- [wiby](https://wiby.me/) - Wiby is a search engine for older style pages, lightweight and based on a subject of interest.
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
 # Wisdom
 - [Investing Returns](https://github.com/zonination/investing) - Data visualization demonstrating buy and hold strategy.
@@ -137,6 +163,13 @@ engineers from Google, Amazon, and more!
 - [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
 - [How I Became a More Productive by Becoming a Worse Programmer](https://news.ycombinator.com/item?id=22680479)
 - [Johnny Decimal](https://johnnydecimal.com/) - A systematic method of organizing project files.
+- [Productivity](https://blog.samaltman.com/productivity) - Sam Altman's take on productivity.
+- [The mythical 10x programmer](http://antirez.com/news/112) - How to increase your programming output.
+- [Agile Manifesto](https://agilemanifesto.org/)
+- [This is why you shouldn't interupt a programmer](https://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/)
+- [DRY Is a Trade-Off](https://news.ycombinator.com/item?id=25459506)
+- [Choose Boring Technology](http://boringtechnology.club/)
+- [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
 
 # Tools
 - [Grep Dot App](https://grep.app/) - Find code snippets on github through regular expression searches over all public repositories. Great for finding example code!
@@ -162,6 +195,9 @@ engineers from Google, Amazon, and more!
 - [DiceBear Avatars](https://avatars.dicebear.com/) - Generate avatars. Also available as a free API!
 - [BrandColors](https://brandcolors.net/) - The biggest collection of official brand color codes around.
 - [Tune My Music](https://www.tunemymusic.com/) - Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube and many more.
+- [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
+- [Dither Me This](https://doodad.dev/dither-me-this/) - Tool to reduce the file size of an image… but in a stylish old-school way.
+- [Set Up Dev Containers](https://dev.to/itnext/instantly-set-up-a-new-dev-environment-using-containers-and-vs-code-51g8)
 
 # Git
 - [git Cheat Sheet](https://the-awesome-git-cheat-sheet.com/)
@@ -173,6 +209,9 @@ engineers from Google, Amazon, and more!
 - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Learn Git Branching](https://learngitbranching.js.org/) - Interactive tutorial to learn git branching.
 - [Clone All Repositories of a Github User](https://gist.github.com/milanboers/f34cdfc3e1ad9ba02ee8e44dae8e093f)
+- [Debugging with Git](https://git-scm.com/book/en/v2/Git-Tools-Debugging-with-Git) - Git bisect.
+- [Gitlet.js](http://gitlet.maryrosecook.com/docs/gitlet.html) - How Git works under the covers with code examples.
+- [Git Flow](https://docs.github.com/en/get-started/quickstart/github-flow) - Branch based git workflow.
 
 # Linux 
 - [Linux Command](http://www.linuxcommand.org/index.php) - Walkthroughs on learning the linux command line and how to write shell scripts.
@@ -211,6 +250,7 @@ engineers from Google, Amazon, and more!
 - [emailwiz](https://github.com/lukesmithxyz/emailwiz) - Email server setup script.
 - [The Ultimate Bad Ass .bashrc File](https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c)
 - [htop Explained](https://peteris.rocks/blog/htop/) - Comprehensive guide to htop.
+- [13 du (Disk Usage) Command Examples In Linux](https://www.rootusers.com/13-du-disk-usage-command-examples-in-linux/)
 
 # Databases
 - [PostgREST](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
@@ -223,6 +263,17 @@ engineers from Google, Amazon, and more!
 - [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html) - Opinion: ORMs are more detriment than benefit.
 - [dbt](https://docs.getdbt.com/docs/introduction) - dbt (data build tool) enables analytics engineers to transform data in their warehouses by simply writing select statements.
 - [Materialize](https://materialize.com/) - Incrementally-updated materialized views - in ANSI Standard SQL and in real time.
+- [DB Fiddle](https://www.db-fiddle.com/) - SQL database playground.
+- [The myth of NoSQL (vs. RDBMS) “joins dont scale”](https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale/)
+- [Building a personal data warehouse in Snowflake for fun and no profit](https://www.thomasdziedzic0.com/blog/building-a-personal-data-warehouse-in-snowflake-for-fun-and-no-profit)
+- [Common Table Expressions – The Ultimate Guide](https://www.essentialsql.com/introduction-common-table-expressions-ctes/)
+- [Guide to the True Order of SQL Operations](https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/)
+- [Datasette](https://datasette.io/) - Tool for exploring and publishing data. It helps people take data of any shape or size, analyze and explore it, and publish it as an interactive website and accompanying API.
+- [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis) - What you can do without Pandas.
+- [Gently Down The Stream](http://www.gentlydownthe.stream/) - A gentle introduction to Apache Kafka (children's book).
+- [Argo Workflows](https://github.com/argoproj/argo-workflows) - Open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
+- [Difference between Stream Replication and logical replication](https://stackoverflow.com/questions/33621906/difference-between-stream-replication-and-logical-replication)
+- [Dirty Little SQL](https://dirtylittlesql.com/) - Load very large text files, very quickly, so that you can run SQL queries on them straight away.
 
 # Programming Languages
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
@@ -262,6 +313,13 @@ engineers from Google, Amazon, and more!
 - [Stream Handbook](https://github.com/substack/stream-handbook) - How to write node programs with streams.
 - [IconPark](https://github.com/bytedance/IconPark) - Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons.
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript Optical Character Recognition for more than 100 languages.
+- [Visualization of npm dependencies](http://npm.anvaka.com/#/) - Create a dependency graph of any npm package.
+- [http-server](https://www.npmjs.com/package/http-server) - http-server: a simple static HTTP server.
+- [socketio](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
+- [prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB.
+- [How do I add TypeScript types to a JavaScript module without switching to TypeScript?](https://stackoverflow.com/questions/53710368/how-do-i-add-typescript-types-to-a-javascript-module-without-switching-to-typesc/53710641)
+- [Creating .d.ts Files from .js files using JSDoc syntax](https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html)
 
 ## html
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate/tree/6.1.0) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -310,6 +368,11 @@ engineers from Google, Amazon, and more!
 - [Blazing Fast Python Networking](https://magic.io/blog/uvloop-blazing-fast-python-networking/)
 - [Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
 - [Practical Python](https://dabeaz-course.github.io/practical-python/Notes/Contents.html) - Course on the foundational aspects of Python programming with an emphasis on script writing, data manipulation, and program organization. Aimed at programmers and not begginers.
+- [Difference between modes a, a+, w, w+, and r+ in built-in open function](https://stackoverflow.com/questions/1466000/difference-between-modes-a-a-w-w-and-r-in-built-in-open-function/30566011)
+- [Python DS&A](https://github.com/ljeng/cheat-sheet) - This cheat sheet contains templates for common data structures and algorithms in Python.
+- [Asynchronous HTTP Requests in Python with aiohttp and asyncio](https://www.twilio.com/blog/asynchronous-http-requests-in-python-with-aiohttp)
+- [How to Use Redis With Python](https://realpython.com/python-redis/)
+- [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
 
 ## bash
 - [Google Bash Style Guide](https://google.github.io/styleguide/shellguide.html)
@@ -333,6 +396,8 @@ engineers from Google, Amazon, and more!
 - [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 - [Bare Bones (Operating System Kernel)](https://wiki.osdev.org/Bare_Bones) - Short tutorial to write a simple kernel for 32-bit x86 and boot it.
 - [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) - Lessons are tiny and may take 5-15 minutes to complete.
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 
 ## sql
 - [SQL Tutorial for Data Analysis](https://mode.com/sql-tutorial/introduction-to-sql/) - Course overviewing standard SQL. Great for refreshing knowledge!
@@ -346,6 +411,7 @@ engineers from Google, Amazon, and more!
 - [Spring Initializr](https://start.spring.io/) - The fastest way to bootstrap a new spring project.
 - [Java 8 Concurrency Tutorial: Threads and Executors](https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
 - [How To Do In Java](https://howtodoinjava.com/) - Collection of Java based tutorials.
+- [Examples of GoF Design Patterns in Java's core libraries](https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries/2707195#2707195)
 
 # Tutorials
 - [Interactive VIM Tutorial](https://www.openvim.com/) - An interactive turoial on how to use VIM. [Hacker News Commentary](https://news.ycombinator.com/item?id=15400037)
@@ -358,6 +424,7 @@ engineers from Google, Amazon, and more!
 - [What is a Webhook?](https://simonfredsted.com/1583)
 - [From Zero to main()](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch) - How to write a bootloader from scratch.
 - [Everything you ever wanted to know about building a secure password reset feature](https://www.troyhunt.com/everything-you-ever-wanted-to-know/)
+- [Spark By Examples](https://sparkbyexamples.com/) - Learn Spark with Scala code examples
 
 # Project Starters
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications.
@@ -368,6 +435,7 @@ engineers from Google, Amazon, and more!
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Calculus for Begginers and Artists](http://www-math.mit.edu/~djk/calculus_beginners/)
 - [Mathematics for the Adventurous Self-Learner](https://www.neilwithdata.com/mathematics-self-learner) - [Accompanying Hacker News discussion.](https://news.ycombinator.com/item?id=22400375)
+- [Probability Pytude](https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb)
 
 # Programs
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Download videos from youtube and many other platforms.
@@ -394,8 +462,10 @@ engineers from Google, Amazon, and more!
 - [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) - Adds a toggleable sidebar with all your bookmarks at the edge of your browser window.
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - The world's most popular userscript manager.
 - [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm) - Improve your skills on your own, effectively and enjoyably, by watching films and series in the language you study.
+- [Medium Unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 
 # Miscellaneous
 
 - [Excel Shortcuts Cheat Sheet](https://www.asap-utilities.com/excel-tips-shortcuts.php)
 - [Disk Prices](https://diskprices.com/) - Webpage with up to date information on where to shop for the best hard drive deals.
+- [HTTP Status Code Cheat Sheet](https://www.restapitutorial.com/httpstatuscodes.html)
